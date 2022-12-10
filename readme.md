@@ -1,7 +1,6 @@
 # **💡API REST COM JAVA E SPRING BOOT**
 Essa foi uma API desenvolvida usando a linguagem **JAVA** na versão **17LTS**, para fornecer e receber dados de uma aplicação de cadastro de medicos e paciente. Nesse projeto fiz a utilização do Framework **SpringBoot** na versão **3.0**, um framework bastente conhecido e ultilizado na comunidade JAVA.
-----------------------------------------------------------------
-----------------------------------------------------------------
+
 ## 📦 **Dependências:**
 ### 🟢 **Spring Boot**:
 - Spring Boot DevTools
