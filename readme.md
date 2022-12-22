@@ -1,6 +1,20 @@
 # **💡API REST COM JAVA E SPRING BOOT**
 Essa foi uma API desenvolvida usando a linguagem **JAVA** na versão **17LTS**, para fornecer e receber dados de uma aplicação de cadastro de medicos e paciente. Nesse projeto fiz a utilização do Framework **SpringBoot** na versão **3.0**, um framework bastente conhecido e ultilizado na comunidade JAVA.
 
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **MediBrasil API**
+| :label: Tecnologias | jJava 17, Spring Boot 3, MySQL E +
+| :rocket: URL         | https://github.com/IsaqueAmorim/API_MediBrasil
+| :fire: Desafio     | Desafio Pessoal de Aprender e cirar em tempo recorde
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
 ## 📦 **Dependências:**
 ### 🟢 **Spring Boot**:
 - Spring Boot DevTools
