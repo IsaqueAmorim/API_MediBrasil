@@ -10,7 +10,7 @@ Essa foi uma API desenvolvida usando a linguagem **JAVA** na versão **17LTS**, 
 | :fire: Desafio     | Desafio Pessoal de Aprender e cirar em tempo recorde
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/IsaqueAmorim/API_MediBrasil/blob/main/restapibg.png#vitrinedev)
 
 ## Detalhes do projeto
 
